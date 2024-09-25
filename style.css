@@ -6,7 +6,12 @@
     /* Alinhamento do texto */
     text-align: center;
     /* Alinhamento do texto */
-    
+    font-family: 'Arial'; 
+    /* Tipo de fonte */
+    background-color: rgba(128, 128, 128, 0.986); 
+    /* Cor de fundo */
+    padding: 25px; 
+    /* Espaçamento interno */
 
 
 }
